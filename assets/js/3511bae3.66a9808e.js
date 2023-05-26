@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprogrammable_wallets_docs=self.webpackChunkprogrammable_wallets_docs||[]).push([[1658],{2332:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/docs-spike/blog/tags/docusaurus","allTagsPath":"/docs-spike/blog/tags","count":4}')}}]);

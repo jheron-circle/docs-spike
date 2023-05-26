@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprogrammable_wallets_docs=self.webpackChunkprogrammable_wallets_docs||[]).push([[6419],{7513:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/docs-spike/blog/tags/hola","allTagsPath":"/docs-spike/blog/tags","count":1}')}}]);
